@@ -1,13 +1,4 @@
-<pre>
-░▒▓█▓▒░░▒▓█▓▒░░▒▓█▓▒░░▒▓█▓▒░ 
-░▒▓█▓▒░░▒▓█▓▒░░▒▓█▓▒░░▒▓█▓▒░ 
-░▒▓█▓▒░░▒▓█▓▒░░▒▓█▓▒░░▒▓█▓▒░ 
-░▒▓█████████▒░░▒▓█▓▒░░▒▓█▓▒░ 
-░▒▓█▓▒░░▒▓█▓▒░░▒▓█▓▒░░▒▓█▓▒░ 
-░▒▓█▓▒░░▒▓█▓▒░░▒▓█▓▒░        
-░▒▓█▓▒░░▒▓█▓▒░░▒▓█▓▒░░▒▓█▓▒░ 
-</pre>
-  Andrea here. I've been a creative developer since 199x. I started writing ASM code on Commodore Amiga, then moved on to Flash 4 until it died. I've kept the same passion alive by turning it into shaders, WebGL, WebGPU and any other technology that allows me to manipulate pixels in every pleasing nuance.
+Hi!! Andrea here. I've been a creative developer since 199x. I started writing ASM code on Commodore Amiga, then moved on to Flash 4 until it died. I've kept the same passion alive by turning it into shaders, WebGL, WebGPU and any other technology that allows me to manipulate pixels in every pleasing nuance.
 <pre>
  _            _         
 | |_ ___  ___| |__  ___ 
