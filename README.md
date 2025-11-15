@@ -1,5 +1,6 @@
-█▬█ █!
-Andrea here. I've been a creative developer since 199x. I started out writing ASM code on C= Amiga, then moved on to Flash until it died. I've kept the same passion alive by turning it into JS, canvas, shaders, WebGL/WebGPU and any other technology that lets me manipulate pixels in every pleasing nuance.
+Hello everyone, 
+
+I'm Andrea, a creative developer since 199x. I started writing ASM code on C= Amiga, then moved on to Flash until it disappeared. I kept my passion alive by transforming it into JS, canvas, shaders, WebGL/WebGPU and any other technology that allows me to manipulate pixels in every pleasant shade.
 
 <pre>
  _            _         
