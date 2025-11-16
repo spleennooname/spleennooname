@@ -1,13 +1,15 @@
-Hello everyone, 
+
+
+<pre>
+█░█ █▀▀ █░░ █░░ █▀█
+█▀█ ██▄ █▄▄ █▄▄ █▄█,
+</pre> 
 
 I'm Andrea, a creative developer since 199x. I started writing ASM code on C= Amiga, then moved on to Flash until it disappeared. I kept my passion alive by transforming it into JS, canvas, shaders, WebGL/WebGPU and any other technology that allows me to manipulate pixels in every pleasant shade.
 
 <pre>
- _            _         
-| |_ ___  ___| |__  ___ 
-| __/ _ \/ __| '_ \/ __|
-| ||  __| (__| | | \__ \
- \__\___|\___|_| |_|___/  
+▀█▀ █▀▀ █▀▀ █░█ █▀
+░█░ ██▄ █▄▄ █▀█ ▄█
 </pre>
 
 <p dir="auto">
@@ -38,11 +40,9 @@ I'm Andrea, a creative developer since 199x. I started writing ASM code on C= Am
 
 </p>
 
-<pre>               _             _       
-  ___ ___  _ __ | |_ __ _  ___| |_ ___ 
- / __/ _ \| '_ \| __/ _` |/ __| __/ __|
-| (_| (_) | | | | || (_| | (__| |_\__ \
- \___\___/|_| |_|\__\__,_|\___|\__|___/ 
+<pre>
+█░░ █ █▄░█ █▄▀ █▀
+█▄▄ █ █░▀█ █░█ ▄█
 </pre>
 
 - [LinkedIn](https://www.linkedin.com/in/andreabovo/)
